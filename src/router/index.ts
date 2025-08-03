@@ -1,4 +1,4 @@
-import ChatLayout from '@/views/ChatLayout.vue'
+import ChatLayout from '@/layouts/ChatLayout.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
